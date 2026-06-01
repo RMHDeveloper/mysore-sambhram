@@ -1,0 +1,6 @@
+{
+  "name": "Mysore Sambhram RWA",
+  "description": "Resident Welfare Association portal for Mysore Sambhram apartment society, featuring role-based dashboards, maintenance payment tracking, feedback logging, and committee management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
